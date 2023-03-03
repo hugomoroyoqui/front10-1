@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Adios Mundo!</h1>
+    <h1>Jairo salte de mi clase</h1>
 
     <script>var hugo = "";</script>
 </body>
